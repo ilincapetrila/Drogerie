@@ -1,1 +1,3 @@
 # Drogerie
+
+Eine Drogerie braucht eine Anwendung, an der die Kunden ein bestimmtes Produkt kaufen können. Jedes Produkt hat einen Namen, einen Preis, eine Menge und ein Verfallsdatum. Der Kunde ist eine Person, der auch einen Rabatt haben kann und eine Liste von gekauften Produkten hat. Ein Angestellter ist eine Person, der auch einen Gehalt und ein Department hat. Der Angestellte kann Produkte hinzufügen, aktualisieren und löschen, wobei ein Kunde kann ein Produkt kaufen oder retournieren. Wenn ein Produkt die Menge null hat, wird eine Fehlermeldung vom Kunden erhalten und der Produkt wird nicht in seinem Warenkorb hinzugefügt.
